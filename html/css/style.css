@@ -1,0 +1,30 @@
+div {   
+    width: 916px;
+    margin: 0 auto;   
+}
+
+h1 {
+    text-align: center;
+    font-size: 30px;
+    line-height: 36px;
+}
+p, h3 {
+    line-height: 20px;
+    font-size: 17px;
+    margin-bottom: 20px;
+}
+td {
+    font-size: 17px;
+    line-height: 20px;
+    padding: 10px;
+    border-bottom: 1px solid #e7e7e7;
+}
+
+table {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+img {
+    max-width: 100%;   
+}
